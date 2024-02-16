@@ -1,4 +1,4 @@
-# Backend Application Name
+# Bookmap-server
 
 ## Overview
 This backend application is built using Express.js and GraphQL to optimize data retrieval from the Open Library API. Unlike traditional websites, this server primarily focuses on fetching data from the Open Library API and delivering it to the frontend in an optimized format via GraphQL.
